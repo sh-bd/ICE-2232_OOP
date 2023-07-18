@@ -20,4 +20,5 @@ int main()
     cout << "\nThe subtraction is " << sub;
     cout << "\nThe multiplication is " << multi;
     cout << "\nThe division is " << div;
+    return 0;
 }

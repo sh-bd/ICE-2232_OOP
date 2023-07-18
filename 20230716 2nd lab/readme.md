@@ -1,0 +1,1 @@
+# This is officially the first lab of the semester!

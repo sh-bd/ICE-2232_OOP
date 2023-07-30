@@ -3,10 +3,8 @@ using namespace std;
 int main()
 {
     int a, b, c, d;
-
     cout << "Enter four integers: ";
     cin >> a >> b >> c >> d;
-
     if (a > b)
     {
         if (a > c)

@@ -24,4 +24,5 @@ int main()
     {
         cout << num_3 << " is the largest number" << endl;
     }
+    return 0;
 }

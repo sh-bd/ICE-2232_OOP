@@ -3,7 +3,7 @@ using namespace std;
 class Student
 {
 public:
-    string Name, dept;
+    string name, dept;
     int id, batch;
     float cgpa;
     void study()
@@ -15,14 +15,12 @@ public:
         cout << "Attend class" << endl;
     }
 };
-
 int main()
 {
     Student std1;
-    std1.Name = "Mouno";
+    std1.name = "Rahim";
     Student std2;
-    std2.Name = "Shamim";
-    cout << std1.Name << endl;
-    cout << std2.Name << endl;
-
+    std2.name = "Shamim";
+    cout << std1.name << endl;
+    cout << std2.name << endl;
 }
